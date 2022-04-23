@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1> siva the boss </h1>
-<a> am </a>
+<h1 align="centre"> siva the boss </h1>
+
 </body>
 </html>
